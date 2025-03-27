@@ -34,3 +34,7 @@ SPOTIPY_REDIRECT_URI=http://localhost:8888/callback
 ***
 4. After that, simply run the program main.py with:
    python main.py
+
+Do _NOTE_ :
+
+Spotify must be open and playing (any song, any volume) when you start running the script. 
