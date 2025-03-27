@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+pygame
+spotipy
+python-dotenv
+numpy
